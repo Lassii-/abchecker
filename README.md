@@ -1,0 +1,1 @@
+Compile with nim c -d:release -d:ssl -d:strip abchecker.nim
